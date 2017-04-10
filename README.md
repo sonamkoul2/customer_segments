@@ -1,5 +1,7 @@
 # Project 3: Unsupervised Learning
 ## Create Customer Segments
+The goal of this project is to assist whole sale distributors to find what types of customers they have to help to make better, more informed business decisions in terms of delivery time.
+- I used unsupervised learning techinques to see if any similarities exist between customers, and how to best segment cutomers into distinct categories.
 ## Install
 
 This project requires Python 2.7 and the following Python libraries installed:
